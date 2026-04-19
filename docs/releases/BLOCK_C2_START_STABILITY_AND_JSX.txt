@@ -1,0 +1,16 @@
+Block C – Stabilitäts- und Start-Pass
+
+Umgesetzt in diesem Stand:
+- Startpfad für echte Nutzung vereinfacht:
+  - START_APP.bat startet den gebauten Dist-Stand lokal
+  - START_DEV.bat startet den Vite-Dev-Server
+- npm-Skripte laufen jetzt über Node-Skripte statt direkt über das vite-Binär
+  - dadurch kein Ärger mehr mit verlorenen Execute-Bits nach ZIP-Entpacken
+- MatchCard wurde im Haupt-Spielplan auf JSX umgestellt
+- Zeitrennen-Eingaben im MatchCard laufen jetzt im modernisierten JSX-Pfad
+- StechenTab wurde auf JSX umgestellt und zusätzlich defensiv gegen fehlende Globals gehärtet
+- dist wurde frisch gebaut und ist im Paket enthalten
+
+Ziel dieses Stands:
+- nächster Start soll reproduzierbar und ohne alte Vendor-/Scriptloader-Tricks funktionieren
+- weitere Migrationen können jetzt auf einem stabileren Start- und UI-Unterbau aufbauen

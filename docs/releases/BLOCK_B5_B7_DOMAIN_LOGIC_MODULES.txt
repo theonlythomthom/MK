@@ -1,0 +1,5 @@
+Block B.5 bis B.7
+- ranking-domain in src/domain/rankingDomain.js als ES-Modul
+- print-export in src/logic/printExport.js als ES-Modul
+- ranking-popup in src/logic/rankingPopup.js als ES-Modul
+- Legacy-Dateien bleiben nur als Kompatibilitäts-Shims bestehen

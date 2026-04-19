@@ -1,0 +1,16 @@
+Block B.11 bis B.12
+=======================
+
+Umgesetzt:
+- `js/ui/tournament-tabs.js` -> `src/ui/tournamentTabs.js`
+- `js/orga/orga-tabs.js` -> `src/orga/orgaTabs.js`
+
+Bridge:
+- Bootstrap importiert jetzt beide UI-Module direkt
+- die alten Dateien in `js/` sind nur noch dünne Kompatibilitäts-Shims
+- klassisch injiziert wird nur noch `js/core.js`
+
+Nutzen:
+- deutliche Reduktion des klassischen Script-Loaders
+- große UI-Blöcke liegen jetzt im Vite-/Modulpfad
+- gute Basis für spätere JSX-Zerlegung

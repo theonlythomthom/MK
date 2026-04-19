@@ -1,0 +1,23 @@
+Block B.1 – Erste ES-Modul-Migration
+====================================
+
+Dieser Schritt modernisiert bewusst noch nicht die komplette Fachlogik.
+Stattdessen wurden zuerst zwei isolierte Legacy-Skripte aus dem klassischen
+Script-Loader herausgezogen:
+
+1. Boot-/Fehlerpfad
+   - alt: js/boot.js
+   - neu: src/legacy/runtime/boot-error.js
+
+2. Dateiordner-/Handle-Persistenz
+   - alt: js/state/file-storage.js
+   - neu: src/persistence/fileStorage.js
+
+Der Legacy-Bootstrap exponiert diese Module weiterhin als globale Brücke:
+- window.__showBootError
+- window.MKWCFileStorage
+
+Vorteil:
+- weniger rohe klassische Scripts
+- besser test- und importierbare Logik
+- erster echter Schritt weg vom globalen Loader

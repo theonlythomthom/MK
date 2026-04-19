@@ -1,0 +1,4 @@
+Block B.4
+- schedule-domain aus dem klassischen Loader in src/domain/scheduleDomain.js verlagert
+- Bootstrap exponiert die Exporte kontrolliert an window
+- js/domain/schedule-domain.js ist nur noch ein Legacy-Kompatibilitäts-S shim

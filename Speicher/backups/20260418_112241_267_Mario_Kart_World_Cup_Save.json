@@ -1,0 +1,4649 @@
+{
+  "fps": [
+    {
+      "id": 1,
+      "teamName": "DieSchirris",
+      "players": [
+        {
+          "name": "Sabrina Schirrholz",
+          "nickname": "Bina",
+          "dbPlayerId": "pl_sabrina_schirrholz"
+        },
+        {
+          "dbPlayerId": "pl_thomas_schirrholz",
+          "name": "Thomas Schirrholz",
+          "nickname": "Derthom"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Manuel Knoop",
+          "nickname": "Manni",
+          "dbPlayerId": "pl_manuel_knoop"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Christian Guse",
+          "nickname": "Guse",
+          "dbPlayerId": "pl_1776502019433"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Thomas Blaz",
+          "nickname": "Thomas",
+          "dbPlayerId": "pl_1776502543730"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Christian Rödder",
+          "nickname": "Chrisi",
+          "dbPlayerId": "pl_1776502002801"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "teamName": "DasTeam",
+      "players": [
+        {
+          "name": "Nils Ring",
+          "nickname": "Nils",
+          "dbPlayerId": "pl_1776502223866"
+        },
+        {
+          "dbPlayerId": "pl_1776501924176",
+          "name": "Björn Kleinfeld",
+          "nickname": "Björn"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "teamName": "Hobbylos",
+      "players": [
+        {
+          "name": "Sascha Marlier",
+          "nickname": "Sascha",
+          "dbPlayerId": "pl_1776502437737"
+        },
+        {
+          "dbPlayerId": "pl_1776502207522",
+          "name": "Nicole Marlier",
+          "nickname": "Nicole"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "teamName": "Fam. Hundhausen",
+      "players": [
+        {
+          "name": "Alexnder Hunhausen",
+          "nickname": "Alex",
+          "dbPlayerId": "pl_1776501858626"
+        },
+        {
+          "dbPlayerId": "pl_1776501964185",
+          "name": "Chantal Hundhausen",
+          "nickname": "Chantal"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "teamName": "Treinder",
+      "players": [
+        {
+          "name": "Pascal Trein",
+          "nickname": "Pascal",
+          "dbPlayerId": "pl_1776502233824"
+        },
+        {
+          "dbPlayerId": "pl_1776502002801",
+          "name": "Christian Rödder",
+          "nickname": "Chrisi"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "teamName": "MohrioKart",
+      "players": [
+        {
+          "name": "Philip Mohr",
+          "nickname": "Philip",
+          "dbPlayerId": "pl_1776502375881"
+        },
+        {
+          "dbPlayerId": "pl_1776502040682",
+          "name": "Emily Mohr",
+          "nickname": "Emi"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Alexander Poppel",
+          "nickname": "Alex",
+          "dbPlayerId": "pl_1776501893145"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "teamName": "",
+      "players": [
+        {
+          "name": "Henry Fröse",
+          "nickname": "Henry",
+          "dbPlayerId": "pl_1776502057089"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502398346",
+          "name": "Sabrina Eggersmeier",
+          "nickname": "Sabrina"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502473265",
+          "name": "Sidney Engelberth",
+          "nickname": "Sidney"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502508425",
+          "name": "Benjamin Jesberger",
+          "nickname": "Jumbo"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502316922",
+          "name": "Paulus Schlüter",
+          "nickname": "Paul"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502375881",
+          "name": "Philip Mohr",
+          "nickname": "Philip"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776501827938",
+          "name": "Tijmen von Rothe",
+          "nickname": "Tijmen"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502415152",
+          "name": "Sascha Krause",
+          "nickname": "Sascha"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502083105",
+          "name": "Jasmin Poppel",
+          "nickname": "Jasmin"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776501691905",
+          "name": "Jenny Dai",
+          "nickname": "Jenny"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776501704946",
+          "name": "Robert Sydlik",
+          "nickname": "Robert"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_1776502956344",
+          "name": "Jimmy Jesberger",
+          "nickname": "Jimmy"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "teamName": "",
+      "players": [
+        {
+          "dbPlayerId": "pl_patrick_schirrholz",
+          "name": "Patrick Schirrholz",
+          "nickname": "Anulu"
+        }
+      ]
+    }
+  ],
+  "cons": [
+    {
+      "id": "snes",
+      "name": "SNES",
+      "game": "Super Mario Kart (1992)",
+      "emoji": "🟥",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "snes_race",
+          "name": "Rennen",
+          "desc": "Klassischer 1-vs-1-Wettbewerb auf allen Strecken",
+          "af": [
+            "1v1"
+          ],
+          "sf": "1v1",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "snes_battle",
+          "name": "Ballonschlacht",
+          "desc": "Zerstöre die 3 Ballons des Gegners",
+          "af": [
+            "1v1"
+          ],
+          "sf": "1v1",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        }
+      ]
+    },
+    {
+      "id": "n64",
+      "name": "N64",
+      "game": "Mario Kart 64 (1997)",
+      "emoji": "🕹️",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "n64_race",
+          "name": "VS-Rennen",
+          "desc": "2–4 Spieler auf allen Strecken",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "n64_battle",
+          "name": "Ballonschlacht",
+          "desc": "Ballon-Kampf solo oder als Team",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        }
+      ]
+    },
+    {
+      "id": "gc",
+      "name": "GameCube",
+      "game": "Mario Kart: Double Dash!! (2003)",
+      "emoji": "🟣",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "gc_race",
+          "name": "VS-Rennen",
+          "desc": "2 Fahrer teilen ein Kart – ideal für 2-vs-2-Teams",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "2v2",
+            "3v3",
+            "4x2"
+          ],
+          "sf": "2v2",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "team"
+        },
+        {
+          "id": "gc_battle",
+          "name": "Ballonschlacht",
+          "desc": "Teams zerstören gegnerische Ballons",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "2v2",
+            "3v3",
+            "4x2"
+          ],
+          "sf": "2v2",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "team"
+        },
+        {
+          "id": "gc_bomb",
+          "name": "Bob-omb-Trommel",
+          "desc": "Schleudere Bob-ombs auf die Gegner",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "2v2",
+            "3v3",
+            "4x2"
+          ],
+          "sf": "2v2",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "team"
+        }
+      ]
+    },
+    {
+      "id": "wii",
+      "name": "Wii",
+      "game": "Mario Kart Wii (2008)",
+      "emoji": "🎯",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "wii_race",
+          "name": "VS-Rennen",
+          "desc": "2–4 Spieler",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "wii_battle",
+          "name": "Ballonschlacht",
+          "desc": "2–4 Spieler",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "wii_coin",
+          "name": "Münzsammler",
+          "desc": "2 vs 2 Teams, max 4 Spieler",
+          "af": [
+            "2v2",
+            "4x2"
+          ],
+          "sf": "2v2",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "team"
+        }
+      ]
+    },
+    {
+      "id": "switch",
+      "name": "Switch",
+      "game": "Mario Kart 8 Deluxe (2017)",
+      "emoji": "🔴",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "sw_race",
+          "name": "VS-Rennen",
+          "desc": "2–12 Spieler via LAN/Online",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "6ffa",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            2,
+            1,
+            0,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_gp",
+          "name": "Grand Prix",
+          "desc": "4 Rennen pro Cup – Punkte sammeln",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_battle",
+          "name": "Ballonschlacht",
+          "desc": "Ballon-Kampf, solo oder Team",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_bomb",
+          "name": "Bob-omb-Trommel",
+          "desc": "Schleudere Bob-ombs auf Gegner",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_coin",
+          "name": "Münzsammler",
+          "desc": "Sammle mehr Münzen als alle anderen",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_shine",
+          "name": "Scheindiebstahl",
+          "desc": "Halte den Glitzerstern solange wie möglich",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw_renegade",
+          "name": "Räuberjagd",
+          "desc": "Sheriffs vs. Räuber – Teamkampf bis zu 6 vs 6",
+          "af": [
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6"
+          ],
+          "sf": "3v3",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "team"
+        }
+      ]
+    },
+    {
+      "id": "switch2",
+      "name": "Switch 2",
+      "game": "Mario Kart World (2025)",
+      "emoji": "🔥",
+      "enabled": true,
+      "modes": [
+        {
+          "id": "sw2_vs",
+          "name": "VS-Rennen",
+          "desc": "2–24 Spieler auf allen Strecken der offenen Welt",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "8ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            4,
+            3,
+            2,
+            1,
+            0,
+            0,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw2_gp",
+          "name": "Grand Prix",
+          "desc": "4 Rennen pro Cup – Punkte werden addiert",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "24ffa",
+          "rounds": 4,
+          "enabled": true,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw2_ko",
+          "name": "Knockout Tour",
+          "desc": "Abgestufte Eliminierung – letzter fliegt raus",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "24ffa",
+          "rounds": 4,
+          "enabled": true,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw2_battle",
+          "name": "Ballonschlacht",
+          "desc": "Ballon-Kampf bis zu 24 Spieler, solo oder Team",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "24ffa",
+          "rounds": 4,
+          "enabled": true,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw2_team",
+          "name": "Team Tour Cup",
+          "desc": "4 × 2er Kart-Teams in einem Cup-Turnier",
+          "af": [
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "4x3",
+            "8x3",
+            "4x6",
+            "3x3",
+            "3x4",
+            "4x4",
+            "8v8",
+            "12v12"
+          ],
+          "sf": "4x2",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "team"
+        },
+        {
+          "id": "sw2_time",
+          "name": "Zeitfahren",
+          "desc": "Einzeln auf Zeit – z.B. Rainbow Road",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 3,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "sw2_roam",
+          "name": "Freies Fahren",
+          "desc": "Offene Welt, Herausforderungen erkunden",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa",
+            "10ffa",
+            "12ffa",
+            "16ffa",
+            "24ffa",
+            "2v2",
+            "3v3",
+            "4v4",
+            "5v5",
+            "6v6",
+            "8v8",
+            "12v12",
+            "3x2",
+            "4x2",
+            "6x2",
+            "8x2",
+            "12x2",
+            "3x3",
+            "4x3",
+            "8x3",
+            "3x4",
+            "4x4",
+            "4x6"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        }
+      ]
+    },
+    {
+      "id": "ds",
+      "name": "DS",
+      "game": "Mario Kart DS (2005)",
+      "emoji": "📺",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "ds_race",
+          "name": "VS-Rennen",
+          "desc": "2–8 Spieler Rennen lokal oder DS Download-Play",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "ds_gp",
+          "name": "Grand Prix",
+          "desc": "Solo oder 2–8 Spieler im lokalen Multiplayer",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "ds_battle",
+          "name": "Ballonschlacht",
+          "desc": "2–8 Spieler · Zerstöre die Ballons der Gegner",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa",
+            "5ffa",
+            "6ffa",
+            "8ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "ds_bomb",
+          "name": "Bob-omb-Blast",
+          "desc": "2–8 Spieler · Schleudere Bob-ombs auf Gegner",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "ds_shine",
+          "name": "Shine Runners",
+          "desc": "2–8 Spieler · Halte Scheins solange wie möglich",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        }
+      ]
+    },
+    {
+      "id": "wiiu",
+      "name": "Wii U",
+      "game": "Mario Kart 8 (2014)",
+      "emoji": "📺",
+      "enabled": false,
+      "modes": [
+        {
+          "id": "wiiu_race",
+          "name": "VS-Rennen",
+          "desc": "2–4 Spieler lokal / bis 4 lokal",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 2,
+          "enabled": true,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "wiiu_gp",
+          "name": "Grand Prix",
+          "desc": "2–4 Spieler · 4 Rennen pro Cup",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "cup",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "wiiu_time",
+          "name": "Zeitfahren",
+          "desc": "Einzeln auf Zeit – Bestzeiten vergleichen",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "2ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            1
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        },
+        {
+          "id": "wiiu_200",
+          "name": "200cc VS-Rennen",
+          "desc": "2–4 Spieler · schnellste Klasse (DLC)",
+          "af": [
+            "2ffa",
+            "3ffa",
+            "4ffa"
+          ],
+          "sf": "4ffa",
+          "rounds": 1,
+          "enabled": false,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "trackDrawMode": "track",
+          "attempts": 1,
+          "scoringMode": "individual"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "id": "sw2_gp_r1",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_gp",
+      "modeName": "Grand Prix",
+      "round": 1,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_gp_r1_g0",
+          "fps": [
+            1,
+            4,
+            27,
+            11,
+            6,
+            31,
+            8,
+            5,
+            32,
+            10,
+            24,
+            2,
+            34,
+            29,
+            7,
+            25,
+            26,
+            35,
+            30,
+            36,
+            33,
+            28,
+            9,
+            3
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_gp",
+          "modeName": "Grand Prix",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_gp_r2",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_gp",
+      "modeName": "Grand Prix",
+      "round": 2,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_gp_r2_g0",
+          "fps": [
+            33,
+            36,
+            8,
+            35,
+            4,
+            30,
+            11,
+            32,
+            31,
+            6,
+            28,
+            2,
+            25,
+            1,
+            27,
+            24,
+            29,
+            10,
+            7,
+            34,
+            5,
+            9,
+            3,
+            26
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_gp",
+          "modeName": "Grand Prix",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_gp_r3",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_gp",
+      "modeName": "Grand Prix",
+      "round": 3,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_gp_r3_g0",
+          "fps": [
+            24,
+            9,
+            3,
+            26,
+            35,
+            28,
+            1,
+            2,
+            11,
+            36,
+            25,
+            32,
+            30,
+            10,
+            31,
+            6,
+            33,
+            34,
+            7,
+            5,
+            27,
+            4,
+            29,
+            8
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_gp",
+          "modeName": "Grand Prix",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_gp_r4",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_gp",
+      "modeName": "Grand Prix",
+      "round": 4,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_gp_r4_g0",
+          "fps": [
+            32,
+            10,
+            6,
+            9,
+            1,
+            35,
+            29,
+            34,
+            33,
+            8,
+            28,
+            24,
+            27,
+            31,
+            11,
+            5,
+            30,
+            4,
+            3,
+            26,
+            2,
+            36,
+            25,
+            7
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_gp",
+          "modeName": "Grand Prix",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_ko_r1",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_ko",
+      "modeName": "Knockout Tour",
+      "round": 1,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_ko_r1_g0",
+          "fps": [
+            24,
+            5,
+            9,
+            10,
+            29,
+            36,
+            28,
+            11,
+            31,
+            30,
+            32,
+            2,
+            33,
+            35,
+            3,
+            27,
+            7,
+            34,
+            25,
+            6,
+            8,
+            1,
+            26,
+            4
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_ko",
+          "modeName": "Knockout Tour",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_ko_r2",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_ko",
+      "modeName": "Knockout Tour",
+      "round": 2,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_ko_r2_g0",
+          "fps": [
+            34,
+            8,
+            7,
+            35,
+            24,
+            32,
+            31,
+            3,
+            28,
+            6,
+            29,
+            33,
+            2,
+            4,
+            11,
+            30,
+            1,
+            9,
+            5,
+            26,
+            25,
+            36,
+            27,
+            10
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_ko",
+          "modeName": "Knockout Tour",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_ko_r3",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_ko",
+      "modeName": "Knockout Tour",
+      "round": 3,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_ko_r3_g0",
+          "fps": [
+            10,
+            28,
+            34,
+            25,
+            6,
+            11,
+            30,
+            2,
+            32,
+            8,
+            36,
+            7,
+            29,
+            24,
+            27,
+            26,
+            1,
+            9,
+            5,
+            4,
+            33,
+            3,
+            31,
+            35
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_ko",
+          "modeName": "Knockout Tour",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_ko_r4",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_ko",
+      "modeName": "Knockout Tour",
+      "round": 4,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_ko_r4_g0",
+          "fps": [
+            26,
+            31,
+            6,
+            5,
+            9,
+            36,
+            32,
+            4,
+            24,
+            34,
+            2,
+            10,
+            35,
+            29,
+            11,
+            33,
+            3,
+            28,
+            27,
+            25,
+            7,
+            30,
+            1,
+            8
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_ko",
+          "modeName": "Knockout Tour",
+          "track": "🌍 Neue Strecken",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_battle_r1",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_battle",
+      "modeName": "Ballonschlacht",
+      "round": 1,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_battle_r1_g0",
+          "fps": [
+            4,
+            11,
+            6,
+            32,
+            5,
+            30,
+            25,
+            29,
+            7,
+            10,
+            27,
+            26,
+            24,
+            8,
+            3,
+            35,
+            9,
+            31,
+            2,
+            28,
+            33,
+            1,
+            34,
+            36
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_battle",
+          "modeName": "Ballonschlacht",
+          "track": "(Arenen noch nicht bekannt)",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_battle_r2",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_battle",
+      "modeName": "Ballonschlacht",
+      "round": 2,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_battle_r2_g0",
+          "fps": [
+            8,
+            11,
+            33,
+            9,
+            30,
+            27,
+            5,
+            1,
+            26,
+            24,
+            6,
+            32,
+            7,
+            2,
+            35,
+            4,
+            36,
+            25,
+            3,
+            10,
+            28,
+            34,
+            29,
+            31
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_battle",
+          "modeName": "Ballonschlacht",
+          "track": "(Arenen noch nicht bekannt)",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_battle_r3",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_battle",
+      "modeName": "Ballonschlacht",
+      "round": 3,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_battle_r3_g0",
+          "fps": [
+            9,
+            36,
+            24,
+            4,
+            6,
+            25,
+            2,
+            32,
+            1,
+            31,
+            26,
+            8,
+            7,
+            35,
+            3,
+            29,
+            5,
+            28,
+            11,
+            10,
+            30,
+            33,
+            27,
+            34
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_battle",
+          "modeName": "Ballonschlacht",
+          "track": "(Arenen noch nicht bekannt)",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_battle_r4",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_battle",
+      "modeName": "Ballonschlacht",
+      "round": 4,
+      "totalRounds": 4,
+      "fmt": {
+        "label": "24 Spieler",
+        "pc": 24,
+        "team": false,
+        "ts": 1,
+        "teamCount": 24
+      },
+      "groups": [
+        {
+          "id": "sw2_battle_r4_g0",
+          "fps": [
+            31,
+            3,
+            33,
+            36,
+            10,
+            2,
+            30,
+            1,
+            32,
+            29,
+            34,
+            28,
+            24,
+            7,
+            4,
+            8,
+            35,
+            27,
+            9,
+            5,
+            6,
+            26,
+            25,
+            11
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 24,
+          "points": [
+            5,
+            5,
+            5,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "timeTrial": false,
+          "attempts": 1,
+          "modeId": "sw2_battle",
+          "modeName": "Ballonschlacht",
+          "track": "(Arenen noch nicht bekannt)",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "sw2_time_r1",
+      "consoleId": "switch2",
+      "consoleName": "Switch 2",
+      "consoleEmoji": "🔥",
+      "modeId": "sw2_time",
+      "modeName": "Zeitfahren",
+      "round": 1,
+      "totalRounds": 1,
+      "fmt": {
+        "label": "4 Spieler",
+        "pc": 4,
+        "team": false,
+        "ts": 1,
+        "teamCount": 4
+      },
+      "groups": [
+        {
+          "id": "sw2_time_r1_g0",
+          "fps": [
+            32,
+            25,
+            1,
+            24
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Whistletop Summit",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        },
+        {
+          "id": "sw2_time_r1_g1",
+          "fps": [
+            4,
+            3,
+            10,
+            6
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Mario Bros. Circuit",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        },
+        {
+          "id": "sw2_time_r1_g2",
+          "fps": [
+            27,
+            2,
+            7,
+            9
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Salty Salty Speedway",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        },
+        {
+          "id": "sw2_time_r1_g3",
+          "fps": [
+            29,
+            28,
+            5,
+            30
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Wario Shipyard",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        },
+        {
+          "id": "sw2_time_r1_g4",
+          "fps": [
+            31,
+            8,
+            34,
+            36
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Chompworks",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        },
+        {
+          "id": "sw2_time_r1_g5",
+          "fps": [
+            11,
+            35,
+            33,
+            26
+          ],
+          "teamMode": false,
+          "teamSize": 1,
+          "scoringMode": "individual",
+          "pointSlotCount": 4,
+          "points": [
+            5,
+            3,
+            1,
+            0
+          ],
+          "timeTrial": true,
+          "attempts": 3,
+          "modeId": "sw2_time",
+          "modeName": "Zeitfahren",
+          "track": "Koopa Troopa Beach",
+          "consoleId": "switch2",
+          "consoleName": "Switch 2",
+          "consoleEmoji": "🔥"
+        }
+      ]
+    }
+  ],
+  "results": {},
+  "stechenBlocks": [],
+  "stechenTimes": {},
+  "trackEnabled": {
+    "snes.race.mushroom.Mario Circuit 1": true,
+    "snes.race.mushroom.Donut Plains 1": true,
+    "snes.race.mushroom.Ghost Valley 1": true,
+    "snes.race.mushroom.Bowser Castle 1": true,
+    "snes.race.mushroom.Mario Circuit 2": true,
+    "snes.race.flower.Choco Island 1": true,
+    "snes.race.flower.Ghost Valley 2": true,
+    "snes.race.flower.Donut Plains 2": true,
+    "snes.race.flower.Bowser Castle 2": true,
+    "snes.race.flower.Mario Circuit 3": true,
+    "snes.race.star.Koopa Troopa Beach 1": true,
+    "snes.race.star.Choco Island 2": true,
+    "snes.race.star.Vanilla Lake 1": true,
+    "snes.race.star.Bowser Castle 3": true,
+    "snes.race.star.Mario Circuit 4": true,
+    "snes.race.special.Donut Plains 3": true,
+    "snes.race.special.Koopa Troopa Beach 2": true,
+    "snes.race.special.Ghost Valley 3": true,
+    "snes.race.special.Vanilla Lake 2": true,
+    "snes.race.special.Rainbow Road": true,
+    "snes.battle.arenas.Battle Course 1": true,
+    "snes.battle.arenas.Battle Course 2": true,
+    "snes.battle.arenas.Battle Course 3": true,
+    "snes.battle.arenas.Battle Course 4": true,
+    "n64.race.mushroom.Luigi Raceway": true,
+    "n64.race.mushroom.Moo Moo Farm": true,
+    "n64.race.mushroom.Koopa Troopa Beach": true,
+    "n64.race.mushroom.Kalimari Desert": true,
+    "n64.race.flower.Toad's Turnpike": true,
+    "n64.race.flower.Frappe Snowland": true,
+    "n64.race.flower.Choco Mountain": true,
+    "n64.race.flower.Mario Raceway": true,
+    "n64.race.star.Wario Stadium": true,
+    "n64.race.star.Sherbet Land": true,
+    "n64.race.star.Royal Raceway": true,
+    "n64.race.star.Bowser's Castle": true,
+    "n64.race.special.DK's Jungle Parkway": true,
+    "n64.race.special.Yoshi Valley": true,
+    "n64.race.special.Banshee Boardwalk": true,
+    "n64.race.special.Rainbow Road": true,
+    "n64.battle.arenas.Big Donut": true,
+    "n64.battle.arenas.Skyscraper": true,
+    "n64.battle.arenas.Block Fort": true,
+    "n64.battle.arenas.Double Deck": true,
+    "gc.race.mushroom.Luigi Circuit": true,
+    "gc.race.mushroom.Peach Beach": true,
+    "gc.race.mushroom.Baby Park": true,
+    "gc.race.mushroom.Dry Dry Desert": true,
+    "gc.race.flower.Mushroom Bridge": true,
+    "gc.race.flower.Mario Circuit": true,
+    "gc.race.flower.Daisy Cruiser": true,
+    "gc.race.flower.Waluigi Stadium": true,
+    "gc.race.star.Sherbet Land": true,
+    "gc.race.star.Mushroom City": true,
+    "gc.race.star.Yoshi Circuit": true,
+    "gc.race.star.DK Mountain": true,
+    "gc.race.special.Wario Colosseum": true,
+    "gc.race.special.Dino Dino Jungle": true,
+    "gc.race.special.Bowser's Castle": true,
+    "gc.race.special.Rainbow Road": true,
+    "gc.battle.arenas.Cookie Land": true,
+    "gc.battle.arenas.Block City": true,
+    "gc.battle.arenas.Luigi's Mansion": true,
+    "gc.battle.arenas.Nintendo GameCube": true,
+    "gc.battle.arenas.Pipe Plaza": true,
+    "wii.race.mushroom.Luigi Circuit": true,
+    "wii.race.mushroom.Moo Moo Meadows": true,
+    "wii.race.mushroom.Mushroom Gorge": true,
+    "wii.race.mushroom.Toad's Factory": true,
+    "wii.race.flower.Mario Circuit": true,
+    "wii.race.flower.Coconut Mall": true,
+    "wii.race.flower.DK Summit": true,
+    "wii.race.flower.Wario's Gold Mine": true,
+    "wii.race.star.Daisy Circuit": true,
+    "wii.race.star.Koopa Cape": true,
+    "wii.race.star.Maple Treeway": true,
+    "wii.race.star.Grumble Volcano": true,
+    "wii.race.special.Dry Dry Ruins": true,
+    "wii.race.special.Moonview Highway": true,
+    "wii.race.special.Bowser's Castle": true,
+    "wii.race.special.Rainbow Road": true,
+    "wii.race.shell.GCN Peach Beach": true,
+    "wii.race.shell.DS Yoshi Falls": true,
+    "wii.race.shell.SNES Ghost Valley 2": true,
+    "wii.race.shell.N64 Mario Raceway": true,
+    "wii.race.banana.N64 Sherbet Land": true,
+    "wii.race.banana.GBA Shy Guy Beach": true,
+    "wii.race.banana.DS Delfino Square": true,
+    "wii.race.banana.GCN Waluigi Stadium": true,
+    "wii.race.leaf.DS Desert Hills": true,
+    "wii.race.leaf.GBA Bowser Castle 3": true,
+    "wii.race.leaf.N64 DK's Jungle Parkway": true,
+    "wii.race.leaf.GCN Mario Circuit": true,
+    "wii.race.lightning.SNES Mario Circuit 3": true,
+    "wii.race.lightning.DS Peach Gardens": true,
+    "wii.race.lightning.GCN DK Mountain": true,
+    "wii.race.lightning.N64 Bowser's Castle": true,
+    "wii.battle.arenas.Block Plaza": true,
+    "wii.battle.arenas.Delfino Pier": true,
+    "wii.battle.arenas.Funky Stadium": true,
+    "wii.battle.arenas.Chain Chomp Wheel": true,
+    "wii.battle.arenas.Thwomp Desert": true,
+    "wii.battle.arenas.GCN Cookie Land": true,
+    "wii.battle.arenas.DS Twilight House": true,
+    "wii.battle.arenas.SNES Battle Course 4": true,
+    "wii.battle.arenas.N64 Skyscraper": true,
+    "wii.battle.arenas.GBA Battle Course 3": true,
+    "switch.race.mushroom.Mario Kart Stadium": true,
+    "switch.race.mushroom.Water Park": true,
+    "switch.race.mushroom.Sweet Sweet Canyon": true,
+    "switch.race.mushroom.Thwomp Ruins": true,
+    "switch.race.flower.Mario Circuit": true,
+    "switch.race.flower.Toad Harbor": true,
+    "switch.race.flower.Twisted Mansion": true,
+    "switch.race.flower.Shy Guy Falls": true,
+    "switch.race.star.Sunshine Airport": true,
+    "switch.race.star.Dolphin Shoals": true,
+    "switch.race.star.Electrodrome": true,
+    "switch.race.star.Mount Wario": true,
+    "switch.race.special.Cloudtop Cruise": true,
+    "switch.race.special.Bone-Dry Dunes": true,
+    "switch.race.special.Bowser's Castle": true,
+    "switch.race.special.Rainbow Road": true,
+    "switch.race.egg.Yoshi Circuit": true,
+    "switch.race.egg.Excitebike Arena": true,
+    "switch.race.egg.Dragon Driftway": true,
+    "switch.race.egg.Mute City": true,
+    "switch.race.crossing.Baby Park": true,
+    "switch.race.crossing.Cheese Land": true,
+    "switch.race.crossing.Wild Woods": true,
+    "switch.race.crossing.Animal Crossing": true,
+    "switch.race.shell.Moo Moo Meadows": true,
+    "switch.race.shell.GBA Mario Circuit": true,
+    "switch.race.shell.Cheep Cheep Beach": true,
+    "switch.race.shell.Toad's Turnpike": true,
+    "switch.race.banana.Dry Dry Desert": true,
+    "switch.race.banana.Donut Plains 3": true,
+    "switch.race.banana.Royal Raceway": true,
+    "switch.race.banana.DK Jungle": true,
+    "switch.race.leaf.Wario Stadium": true,
+    "switch.race.leaf.Sherbet Land": true,
+    "switch.race.leaf.Music Park": true,
+    "switch.race.leaf.Yoshi Valley": true,
+    "switch.race.lightning.Neo Bowser City": true,
+    "switch.race.lightning.Koopa Troopa Beach": true,
+    "switch.race.lightning.Tick-Tock Clock": true,
+    "switch.race.lightning.Piranha Plant Slide": true,
+    "switch.race.triforce.Wario's Gold Mine": true,
+    "switch.race.triforce.SNES Rainbow Road": true,
+    "switch.race.triforce.Ice Ice Outpost": true,
+    "switch.race.triforce.Hyrule Circuit": true,
+    "switch.race.bell.Koopa City": true,
+    "switch.race.bell.Ribbon Road": true,
+    "switch.race.bell.Super Bell Subway": true,
+    "switch.race.bell.Big Blue": true,
+    "switch.race.bcp1a.Paris Promenade": true,
+    "switch.race.bcp1a.3DS Toad Circuit": true,
+    "switch.race.bcp1a.N64 Choco Mountain": true,
+    "switch.race.bcp1a.Wii Coconut Mall": true,
+    "switch.race.bcp1b.Tokyo Blur": true,
+    "switch.race.bcp1b.DS Shroom Ridge": true,
+    "switch.race.bcp1b.GBA Sky Garden": true,
+    "switch.race.bcp1b.Ninja Hideaway": true,
+    "switch.race.bcp2a.New York Minute": true,
+    "switch.race.bcp2a.SNES Mario Circuit 3": true,
+    "switch.race.bcp2a.N64 Kalimari Desert": true,
+    "switch.race.bcp2a.DS Waluigi Pinball": true,
+    "switch.race.bcp2b.Sydney Sprint": true,
+    "switch.race.bcp2b.GBA Snow Land": true,
+    "switch.race.bcp2b.Wii Mushroom Gorge": true,
+    "switch.race.bcp2b.Sky-High Sundae": true,
+    "switch.race.bcp3a.London Loop": true,
+    "switch.race.bcp3a.GBA Boo Lake": true,
+    "switch.race.bcp3a.3DS Rock Rock Mountain": true,
+    "switch.race.bcp3a.Wii Maple Treeway": true,
+    "switch.race.bcp3b.Berlin Byways": true,
+    "switch.race.bcp3b.DS Peach Gardens": true,
+    "switch.race.bcp3b.Merry Mountain": true,
+    "switch.race.bcp3b.3DS Rainbow Road": true,
+    "switch.race.bcp4a.Amsterdam Drift": true,
+    "switch.race.bcp4a.GBA Riverside Park": true,
+    "switch.race.bcp4a.GCN DK Mountain": true,
+    "switch.race.bcp4a.GCN Daisy Cruiser": true,
+    "switch.race.bcp4b.N64 Koopa Troopa Beach": true,
+    "switch.race.bcp4b.GCN Mario Circuit": true,
+    "switch.race.bcp4b.N64 Rainbow Road": true,
+    "switch.race.bcp4b.Wii Rosalina's Ice World": true,
+    "switch.race.bcp5a.Madrid Drive": true,
+    "switch.race.bcp5a.3DS Rosalina's Ice World": true,
+    "switch.race.bcp5a.Wii DK Jungle": true,
+    "switch.race.bcp5a.Piranha Plant Cove": true,
+    "switch.race.bcp5b.Los Angeles Laps": true,
+    "switch.race.bcp5b.GBA Sunset Wilds": true,
+    "switch.race.bcp5b.Wii Koopa Cape": true,
+    "switch.race.bcp5b.GCN Waluigi Stadium": true,
+    "switch.race.bcp6a.Vancouver Velocity": true,
+    "switch.race.bcp6a.GBA Ribbon Road": true,
+    "switch.race.bcp6a.Wii Moonview Highway": true,
+    "switch.race.bcp6a.3DS Bowser's Castle": true,
+    "switch.race.bcp6b.Rome Avanti": true,
+    "switch.race.bcp6b.GBA Boo Lake (alt)": true,
+    "switch.race.bcp6b.3DS Cheese Land": true,
+    "switch.race.bcp6b.Wii Koopa Troopa Beach": true,
+    "switch.battle.arenas.Battle Stadium": true,
+    "switch.battle.arenas.Sweet Sweet Kingdom": true,
+    "switch.battle.arenas.Dragon Palace": true,
+    "switch.battle.arenas.Lunar Colony": true,
+    "switch.battle.arenas.Urchin Underpass": true,
+    "switch.battle.arenas.SNES Battle Course 1": true,
+    "switch.battle.arenas.GCN Luigi's Mansion": true,
+    "switch.battle.arenas.Wii Funky Stadium": true,
+    "switch2.race.nitro.Mario Bros. Circuit": true,
+    "switch2.race.nitro.Crown City": true,
+    "switch2.race.nitro.Whistletop Summit": true,
+    "switch2.race.nitro.Boo Cinema": true,
+    "switch2.race.nitro.Faraway Oasis": true,
+    "switch2.race.nitro.Starview Peak": true,
+    "switch2.race.nitro.Chompworks": true,
+    "switch2.race.nitro.Salty Salty Speedway": true,
+    "switch2.race.nitro.Koopa Troopa Beach": true,
+    "switch2.race.nitro.Wario Shipyard": true,
+    "switch2.race.nitro.DK Bananza Ruins": true,
+    "switch2.race.nitro.Donkey Kong's Jungle": true,
+    "switch2.race.nitro.Peach Stadium": true,
+    "switch2.race.nitro.Airship Fortress": true,
+    "switch2.race.nitro.Bowser's Castle": true,
+    "switch2.race.nitro.Rainbow Road": true,
+    "switch2.battle.arenas.(Arenen noch nicht bekannt)": true,
+    "ds.race.mushroom.Figure-8 Circuit": true,
+    "ds.race.mushroom.Yoshi Falls": true,
+    "ds.race.mushroom.Cheep Cheep Beach": true,
+    "ds.race.mushroom.Luigi's Mansion": true,
+    "ds.race.flower.Desert Hills": true,
+    "ds.race.flower.Delfino Square": true,
+    "ds.race.flower.Waluigi Pinball": true,
+    "ds.race.flower.Shroom Ridge": true,
+    "ds.race.star.DK Pass": true,
+    "ds.race.star.Tick-Tock Clock": true,
+    "ds.race.star.Mario Circuit": true,
+    "ds.race.star.Airship Fortress": true,
+    "ds.race.special.Wario Stadium": true,
+    "ds.race.special.Peach Gardens": true,
+    "ds.race.special.Bowser Castle": true,
+    "ds.race.special.Rainbow Road": true,
+    "ds.race.shell.SNES Mario Circuit 1": true,
+    "ds.race.shell.N64 Moo Moo Farm": true,
+    "ds.race.shell.GBA Peach Circuit": true,
+    "ds.race.shell.GCN Luigi Circuit": true,
+    "ds.race.banana.SNES Donut Plains 1": true,
+    "ds.race.banana.N64 Frappe Snowland": true,
+    "ds.race.banana.GBA Bowser Castle 2": true,
+    "ds.race.banana.GCN Baby Park": true,
+    "ds.race.leaf.SNES Koopa Beach 2": true,
+    "ds.race.leaf.N64 Choco Mountain": true,
+    "ds.race.leaf.GBA Luigi Circuit": true,
+    "ds.race.leaf.GCN Mushroom Bridge": true,
+    "ds.race.lightning.SNES Choco Island 2": true,
+    "ds.race.lightning.N64 Banshee Boardwalk": true,
+    "ds.race.lightning.GBA Sky Garden": true,
+    "ds.race.lightning.GCN Yoshi Circuit": true,
+    "ds.battle.arenas.Nintendo DS": true,
+    "ds.battle.arenas.Twilight House": true,
+    "ds.battle.arenas.Palm Shore": true,
+    "ds.battle.arenas.Tart Top": true,
+    "ds.battle.arenas.Block Fort": true,
+    "ds.battle.arenas.GCN Pipe Plaza": true,
+    "wiiu.race.mushroom.Mario Kart Stadium": true,
+    "wiiu.race.mushroom.Water Park": true,
+    "wiiu.race.mushroom.Sweet Sweet Canyon": true,
+    "wiiu.race.mushroom.Thwomp Ruins": true,
+    "wiiu.race.flower.Mario Circuit": true,
+    "wiiu.race.flower.Toad Harbor": true,
+    "wiiu.race.flower.Twisted Mansion": true,
+    "wiiu.race.flower.Shy Guy Falls": true,
+    "wiiu.race.star.Sunshine Airport": true,
+    "wiiu.race.star.Dolphin Shoals": true,
+    "wiiu.race.star.Electrodrome": true,
+    "wiiu.race.star.Mount Wario": true,
+    "wiiu.race.special.Cloudtop Cruise": true,
+    "wiiu.race.special.Bone-Dry Dunes": true,
+    "wiiu.race.special.Bowser's Castle": true,
+    "wiiu.race.special.Rainbow Road": true,
+    "wiiu.race.egg.Yoshi Circuit": true,
+    "wiiu.race.egg.Excitebike Arena": true,
+    "wiiu.race.egg.Dragon Driftway": true,
+    "wiiu.race.egg.Mute City": true,
+    "wiiu.race.crossing.Baby Park": true,
+    "wiiu.race.crossing.Cheese Land": true,
+    "wiiu.race.crossing.Wild Woods": true,
+    "wiiu.race.crossing.Animal Crossing": true,
+    "wiiu.race.shell.Moo Moo Meadows": true,
+    "wiiu.race.shell.GBA Mario Circuit": true,
+    "wiiu.race.shell.Cheep Cheep Beach": true,
+    "wiiu.race.shell.Toad's Turnpike": true,
+    "wiiu.race.banana.Dry Dry Desert": true,
+    "wiiu.race.banana.Donut Plains 3": true,
+    "wiiu.race.banana.Royal Raceway": true,
+    "wiiu.race.banana.DK Jungle": true,
+    "wiiu.race.leaf.Wario Stadium": true,
+    "wiiu.race.leaf.Sherbet Land": true,
+    "wiiu.race.leaf.Music Park": true,
+    "wiiu.race.leaf.Yoshi Valley": true,
+    "wiiu.race.lightning.Neo Bowser City": true,
+    "wiiu.race.lightning.Koopa Troopa Beach": true,
+    "wiiu.race.lightning.Tick-Tock Clock": true,
+    "wiiu.race.lightning.Piranha Plant Slide": true,
+    "wiiu.race.triforce.Wario's Gold Mine": true,
+    "wiiu.race.triforce.SNES Rainbow Road": true,
+    "wiiu.race.triforce.Ice Ice Outpost": true,
+    "wiiu.race.triforce.Hyrule Circuit": true,
+    "wiiu.race.bell.Koopa City": true,
+    "wiiu.race.bell.Ribbon Road": true,
+    "wiiu.race.bell.Super Bell Subway": true,
+    "wiiu.race.bell.Big Blue": true,
+    "wiiu.note.note.MK8 Wii U hat keinen dedizierten Battle-Modus (reguläre Strecken)": true
+  },
+  "password": "",
+  "playerDb": {
+    "masterData": {
+      "consoles": [
+        "SNES",
+        "N64",
+        "GameCube",
+        "Wii",
+        "Switch",
+        "Switch 2",
+        "DS",
+        "Wii U"
+      ],
+      "controllers": [
+        "SNES Controller",
+        "N64 Controller",
+        "GameCube Controller",
+        "Wii Remote",
+        "Wii Wheel",
+        "Joy-Con",
+        "Pro Controller"
+      ],
+      "games": [
+        "Super Mario Kart (1992)",
+        "Mario Kart 64 (1997)",
+        "Mario Kart: Double Dash!! (2003)",
+        "Mario Kart Wii (2008)",
+        "Mario Kart 8 Deluxe (2017)",
+        "Mario Kart World (2025)",
+        "Mario Kart DS (2005)",
+        "Mario Kart 8 (2014)"
+      ],
+      "tvs": [
+        "TV 1",
+        "TV 2",
+        "TV 3",
+        "Beamer"
+      ]
+    },
+    "players": [
+      {
+        "id": "pl_thomas_schirrholz",
+        "firstName": "Thomas",
+        "lastName": "Schirrholz",
+        "nickname": "Derthom",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_sabrina_schirrholz",
+        "firstName": "Sabrina",
+        "lastName": "Schirrholz",
+        "nickname": "Bina",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_patrick_schirrholz",
+        "firstName": "Patrick",
+        "lastName": "Schirrholz",
+        "nickname": "Anulu",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_manuel_knoop",
+        "firstName": "Manuel",
+        "lastName": "Knoop",
+        "nickname": "Manni",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501691905",
+        "firstName": "Jenny",
+        "lastName": "Dai",
+        "nickname": "Jenny",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501704946",
+        "firstName": "Robert",
+        "lastName": "Sydlik",
+        "nickname": "Robert",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501809257",
+        "firstName": "Patrica",
+        "lastName": "Mohr",
+        "nickname": "Patty",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501827938",
+        "firstName": "Tijmen",
+        "lastName": "von Rothe",
+        "nickname": "Tijmen",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501858626",
+        "firstName": "Alexnder",
+        "lastName": "Hunhausen",
+        "nickname": "Alex",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501876234",
+        "firstName": "Alexander",
+        "lastName": "Bleisteiner",
+        "nickname": "OptiAkki",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501893145",
+        "firstName": "Alexander",
+        "lastName": "Poppel",
+        "nickname": "Alex",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501904970",
+        "firstName": "Andre",
+        "lastName": "Schmidt",
+        "nickname": "Andre",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501924176",
+        "firstName": "Björn",
+        "lastName": "Kleinfeld",
+        "nickname": "Björn",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501939306",
+        "firstName": "Carolin",
+        "lastName": "Paul",
+        "nickname": "Caro",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501964185",
+        "firstName": "Chantal",
+        "lastName": "Hundhausen",
+        "nickname": "Chantal",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776501979617",
+        "firstName": "Charlyn Christin",
+        "lastName": "Rödder",
+        "nickname": "Charlyn",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502002801",
+        "firstName": "Christian",
+        "lastName": "Rödder",
+        "nickname": "Chrisi",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502019433",
+        "firstName": "Christian",
+        "lastName": "Guse",
+        "nickname": "Guse",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502028762",
+        "firstName": "Dario",
+        "lastName": "Ludwig",
+        "nickname": "Dario",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502040682",
+        "firstName": "Emily",
+        "lastName": "Mohr",
+        "nickname": "Emi",
+        "ageGroup": "u18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502057089",
+        "firstName": "Henry",
+        "lastName": "Fröse",
+        "nickname": "Henry",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502083105",
+        "firstName": "Jasmin",
+        "lastName": "Poppel",
+        "nickname": "Jasmin",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502096962",
+        "firstName": "Jens",
+        "lastName": "Buhl",
+        "nickname": "Jens",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502110985",
+        "firstName": "Jessica",
+        "lastName": "Hagen",
+        "nickname": "Jessi",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502121033",
+        "firstName": "Justin",
+        "lastName": "Wurst",
+        "nickname": "Die Wurst",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502138049",
+        "firstName": "Kevin",
+        "lastName": "Tjart",
+        "nickname": "Kevin",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502153474",
+        "firstName": "Kevin",
+        "lastName": "Walterscheid",
+        "nickname": "Kevin",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502164921",
+        "firstName": "Louisa",
+        "lastName": "Gottschalk",
+        "nickname": "Louisa",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502193226",
+        "firstName": "Melanie",
+        "lastName": "Staimann",
+        "nickname": "Melanie",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502207522",
+        "firstName": "Nicole",
+        "lastName": "Marlier",
+        "nickname": "Nicole",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502223866",
+        "firstName": "Nils",
+        "lastName": "Ring",
+        "nickname": "Nils",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502233824",
+        "firstName": "Pascal",
+        "lastName": "Trein",
+        "nickname": "Pascal",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502255673",
+        "firstName": "Mailo",
+        "lastName": "Rödder",
+        "nickname": "Mailo",
+        "ageGroup": "u18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502269625",
+        "firstName": "Lea Johanna",
+        "lastName": "Schirrholz",
+        "nickname": "Lea",
+        "ageGroup": "u18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502300137",
+        "firstName": "Clara Marie",
+        "lastName": "Schirrholz",
+        "nickname": "Clara",
+        "ageGroup": "u18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502316922",
+        "firstName": "Paulus",
+        "lastName": "Schlüter",
+        "nickname": "Paul",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502375881",
+        "firstName": "Philip",
+        "lastName": "Mohr",
+        "nickname": "Philip",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502398346",
+        "firstName": "Sabrina",
+        "lastName": "Eggersmeier",
+        "nickname": "Sabrina",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502415152",
+        "firstName": "Sascha",
+        "lastName": "Krause",
+        "nickname": "Sascha",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502437737",
+        "firstName": "Sascha",
+        "lastName": "Marlier",
+        "nickname": "Sascha",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502449281",
+        "firstName": "Sergej",
+        "lastName": "Kaiser",
+        "nickname": "Sergej",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502473265",
+        "firstName": "Sidney",
+        "lastName": "Engelberth",
+        "nickname": "Sidney",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502491352",
+        "firstName": "Willi",
+        "lastName": "Janzen",
+        "nickname": "Willi",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502508425",
+        "firstName": "Benjamin",
+        "lastName": "Jesberger",
+        "nickname": "Jumbo",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502543730",
+        "firstName": "Thomas",
+        "lastName": "Blaz",
+        "nickname": "Thomas",
+        "ageGroup": "ue18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      },
+      {
+        "id": "pl_1776502956344",
+        "firstName": "Jimmy",
+        "lastName": "Jesberger",
+        "nickname": "Jimmy",
+        "ageGroup": "u18",
+        "prefs": {
+          "consoles": [],
+          "controllers": [],
+          "games": [],
+          "tvs": []
+        }
+      }
+    ]
+  },
+  "orgaData": {
+    "participantsMeta": {
+      "title": "Mario-Kart Turnier 2026",
+      "date": "",
+      "city": "",
+      "zip": "",
+      "street": "Bürgerhaus Isert/Racksen, Sonnenplatz 5",
+      "fee": 25,
+      "setupStart": "",
+      "tournamentStart": ""
+    },
+    "participants": [
+      {
+        "id": "op_1776501351344_jvcrga",
+        "linkedPlayerId": "pl_sabrina_schirrholz",
+        "mode": "Solo",
+        "firstName": "Sabrina",
+        "lastName": "Schirrholz",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "bar",
+        "setup": false,
+        "shopping": false,
+        "cooking": true,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "1_0",
+        "sourceTeamName": "DieSchirris"
+      },
+      {
+        "id": "op_1776501354017_8g2ow7",
+        "linkedPlayerId": "pl_thomas_schirrholz",
+        "mode": "Solo",
+        "firstName": "Thomas",
+        "lastName": "Schirrholz",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "bar",
+        "setup": true,
+        "shopping": false,
+        "cooking": false,
+        "teardown": true,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "1_1",
+        "sourceTeamName": "DieSchirris"
+      },
+      {
+        "id": "op_1776501356892_adf32p",
+        "linkedPlayerId": "pl_manuel_knoop",
+        "mode": "Solo",
+        "firstName": "Manuel",
+        "lastName": "Knoop",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": true,
+        "shopping": false,
+        "cooking": false,
+        "teardown": true,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "2_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502568379_bnk8sk",
+        "linkedPlayerId": "pl_1776502019433",
+        "mode": "Solo",
+        "firstName": "Christian",
+        "lastName": "Guse",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "3_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502580340_01ls20",
+        "linkedPlayerId": "pl_1776502543730",
+        "mode": "Solo",
+        "firstName": "Thomas",
+        "lastName": "Blaz",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "4_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502592547_cb1wri",
+        "linkedPlayerId": "pl_1776502002801",
+        "mode": "Solo",
+        "firstName": "Christian",
+        "lastName": "Rödder",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "5_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502599880_tl7yrr",
+        "linkedPlayerId": "pl_1776502223866",
+        "mode": "Solo",
+        "firstName": "Nils",
+        "lastName": "Ring",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "6_0",
+        "sourceTeamName": "DasTeam"
+      },
+      {
+        "id": "op_1776502607324_l9m8j5",
+        "linkedPlayerId": "pl_1776501924176",
+        "mode": "Solo",
+        "firstName": "Björn",
+        "lastName": "Kleinfeld",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "6_1",
+        "sourceTeamName": "DasTeam"
+      },
+      {
+        "id": "op_1776502619794_yyetwa",
+        "linkedPlayerId": "pl_1776502437737",
+        "mode": "Solo",
+        "firstName": "Sascha",
+        "lastName": "Marlier",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "7_0",
+        "sourceTeamName": "Hobbylos"
+      },
+      {
+        "id": "op_1776502623733_kcp2oh",
+        "linkedPlayerId": "pl_1776502207522",
+        "mode": "Solo",
+        "firstName": "Nicole",
+        "lastName": "Marlier",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "7_1",
+        "sourceTeamName": "Hobbylos"
+      },
+      {
+        "id": "op_1776502634083_uniyq4",
+        "linkedPlayerId": "pl_1776501858626",
+        "mode": "Solo",
+        "firstName": "Alexnder",
+        "lastName": "Hunhausen",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "8_0",
+        "sourceTeamName": "Fam. Hundhausen"
+      },
+      {
+        "id": "op_1776502639376_7ret2b",
+        "linkedPlayerId": "pl_1776501964185",
+        "mode": "Solo",
+        "firstName": "Chantal",
+        "lastName": "Hundhausen",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "8_1",
+        "sourceTeamName": "Fam. Hundhausen"
+      },
+      {
+        "id": "op_1776502648748_ettesu",
+        "linkedPlayerId": "pl_1776502233824",
+        "mode": "Solo",
+        "firstName": "Pascal",
+        "lastName": "Trein",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "9_0",
+        "sourceTeamName": "Treinder"
+      },
+      {
+        "id": "op_1776502688614_4oqtqg",
+        "linkedPlayerId": "pl_1776502375881",
+        "mode": "Solo",
+        "firstName": "Philip",
+        "lastName": "Mohr",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "10_0",
+        "sourceTeamName": "MohrioKart"
+      },
+      {
+        "id": "op_1776502693644_nckuqc",
+        "linkedPlayerId": "pl_1776502040682",
+        "mode": "Solo",
+        "firstName": "Emily",
+        "lastName": "Mohr",
+        "group": "",
+        "ageGroup": "u18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "10_1",
+        "sourceTeamName": "MohrioKart"
+      },
+      {
+        "id": "op_1776502707184_adgyob",
+        "linkedPlayerId": "pl_1776501893145",
+        "mode": "Solo",
+        "firstName": "Alexander",
+        "lastName": "Poppel",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "11_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502712954_glaw93",
+        "linkedPlayerId": "pl_1776502057089",
+        "mode": "Solo",
+        "firstName": "Henry",
+        "lastName": "Fröse",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "24_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502722058_2ouebe",
+        "linkedPlayerId": "pl_1776502398346",
+        "mode": "Solo",
+        "firstName": "Sabrina",
+        "lastName": "Eggersmeier",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "25_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502727971_bsi0cb",
+        "linkedPlayerId": "pl_1776502473265",
+        "mode": "Solo",
+        "firstName": "Sidney",
+        "lastName": "Engelberth",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "26_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502741241_okavh4",
+        "linkedPlayerId": "pl_1776502508425",
+        "mode": "Solo",
+        "firstName": "Benjamin",
+        "lastName": "Jesberger",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "27_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502761891_c2kujl",
+        "linkedPlayerId": "pl_1776502316922",
+        "mode": "Solo",
+        "firstName": "Paulus",
+        "lastName": "Schlüter",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": true,
+        "paymentMethod": "paypal",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "28_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502781570_kqkud8",
+        "linkedPlayerId": "pl_1776501827938",
+        "mode": "Solo",
+        "firstName": "Tijmen",
+        "lastName": "von Rothe",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "30_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502792969_krbx2r",
+        "linkedPlayerId": "pl_1776502415152",
+        "mode": "Solo",
+        "firstName": "Sascha",
+        "lastName": "Krause",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "31_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776502811496_u8ujqr",
+        "linkedPlayerId": "pl_1776502083105",
+        "mode": "Solo",
+        "firstName": "Jasmin",
+        "lastName": "Poppel",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "32_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776503028300_jgx1ci",
+        "linkedPlayerId": "pl_1776501691905",
+        "mode": "Solo",
+        "firstName": "Jenny",
+        "lastName": "Dai",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "33_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776503052981_p7cxau",
+        "linkedPlayerId": "pl_1776501704946",
+        "mode": "Solo",
+        "firstName": "Robert",
+        "lastName": "Sydlik",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "34_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776503257940_4xqhzn",
+        "linkedPlayerId": "pl_1776502956344",
+        "mode": "Solo",
+        "firstName": "Jimmy",
+        "lastName": "Jesberger",
+        "group": "",
+        "ageGroup": "u18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "35_0",
+        "sourceTeamName": ""
+      },
+      {
+        "id": "op_1776503746368_2zibw7",
+        "linkedPlayerId": "pl_patrick_schirrholz",
+        "mode": "Solo",
+        "firstName": "Patrick",
+        "lastName": "Schirrholz",
+        "group": "",
+        "ageGroup": "ue18",
+        "paid": false,
+        "paymentMethod": "offen",
+        "setup": false,
+        "shopping": false,
+        "cooking": false,
+        "teardown": false,
+        "info": "",
+        "shoppingItems": [],
+        "sourceSlotId": "36_0",
+        "sourceTeamName": ""
+      }
+    ],
+    "costs": {
+      "shopping": [
+        {
+          "id": "shop_1776501346398_01usik",
+          "category": "preise",
+          "name": "1,2,3 Medaillen 4er Set",
+          "variant": "",
+          "source": "Amazon",
+          "sourceTitle": "Amazon",
+          "sourceUrl": "",
+          "qty": 1,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "12.99",
+          "shipping": "",
+          "done": false,
+          "notes": ""
+        },
+        {
+          "id": "shop_1776501346398_khhgs9",
+          "category": "preise",
+          "name": "Minipokale",
+          "variant": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": "",
+          "qty": 6,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "7.50",
+          "shipping": "6.50",
+          "done": false,
+          "notes": ""
+        },
+        {
+          "id": "shop_1776501346398_ce0k0r",
+          "category": "sonstiges",
+          "name": "Namensschilder",
+          "variant": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": "",
+          "qty": 160,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "9.49",
+          "shipping": "",
+          "done": false,
+          "notes": ""
+        },
+        {
+          "id": "shop_1776501346398_67o78b",
+          "category": "preise",
+          "name": "Teilnehmerurkunden",
+          "variant": "",
+          "source": "Amazon",
+          "sourceTitle": "Amazon",
+          "sourceUrl": "",
+          "qty": 100,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "11.99",
+          "shipping": "",
+          "done": false,
+          "notes": ""
+        },
+        {
+          "id": "shop_1776501346398_6xyqcv",
+          "category": "preise",
+          "name": "Wertmarken",
+          "variant": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": "",
+          "qty": 24,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "5.00",
+          "shipping": "",
+          "done": false,
+          "notes": ""
+        },
+        {
+          "id": "shop_1776501346398_vvod9j",
+          "category": "sonstiges",
+          "name": "Mario Kart Streckenlose",
+          "variant": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": "",
+          "qty": 1,
+          "unit": "",
+          "perPerson": "",
+          "unitPrice": "5.00",
+          "shipping": "",
+          "done": false,
+          "notes": ""
+        }
+      ],
+      "todos": [
+        {
+          "id": "todo_1776501346398_h3c5m2",
+          "task": "Spielplan erstellen",
+          "owner": "",
+          "qty": 1,
+          "estCost": "0",
+          "done": false,
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        },
+        {
+          "id": "todo_1776501346398_h1nbf3",
+          "task": "Konsolen organisieren",
+          "owner": "",
+          "qty": 1,
+          "estCost": "0",
+          "done": false,
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        },
+        {
+          "id": "todo_1776501346398_l74ykg",
+          "task": "Mario-Kart Theme Musik vorbereiten",
+          "owner": "",
+          "qty": 1,
+          "estCost": "0",
+          "done": false,
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        },
+        {
+          "id": "todo_1776501346398_y2ug9u",
+          "task": "Podest bauen",
+          "owner": "",
+          "qty": 1,
+          "estCost": "0",
+          "done": false,
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        }
+      ],
+      "ideas": [
+        {
+          "id": "idea_1776501346398_4sapak",
+          "text": "Finale mit zentralem Gold-TV und Publikum dahinter",
+          "status": "idee",
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        },
+        {
+          "id": "idea_1776501346398_igyc2m",
+          "text": "Freie Trainingskonsole abseits der Hauptturnierfläche",
+          "status": "idee",
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        }
+      ],
+      "bring": [
+        {
+          "id": "bring_1776501346398_qodv5n",
+          "item": "Stehtische",
+          "qty": 5,
+          "who": "",
+          "done": false,
+          "notes": "",
+          "source": "",
+          "sourceTitle": "",
+          "sourceUrl": ""
+        }
+      ]
+    },
+    "bringPlan": {
+      "requirements": {
+        "consoles": [],
+        "tvQty": 0
+      },
+      "assignments": [
+        {
+          "id": "bassign_1776501351344_m5yz1j",
+          "participantId": "op_1776501351344_jvcrga",
+          "linkedPlayerId": "pl_sabrina_schirrholz",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776501354017_k47ovx",
+          "participantId": "op_1776501354017_8g2ow7",
+          "linkedPlayerId": "pl_thomas_schirrholz",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776501356892_29s1ec",
+          "participantId": "op_1776501356892_adf32p",
+          "linkedPlayerId": "pl_manuel_knoop",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502568379_8j33ab",
+          "participantId": "op_1776502568379_bnk8sk",
+          "linkedPlayerId": "pl_1776502019433",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502580340_juq6n6",
+          "participantId": "op_1776502580340_01ls20",
+          "linkedPlayerId": "pl_1776502543730",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502592547_0eujyv",
+          "participantId": "op_1776502592547_cb1wri",
+          "linkedPlayerId": "pl_1776502002801",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502599880_7qdkpn",
+          "participantId": "op_1776502599880_tl7yrr",
+          "linkedPlayerId": "pl_1776502223866",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502607324_2d2sz5",
+          "participantId": "op_1776502607324_l9m8j5",
+          "linkedPlayerId": "pl_1776501924176",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502619794_s7d7r3",
+          "participantId": "op_1776502619794_yyetwa",
+          "linkedPlayerId": "pl_1776502437737",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502623733_d4liqf",
+          "participantId": "op_1776502623733_kcp2oh",
+          "linkedPlayerId": "pl_1776502207522",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502634083_0qx41c",
+          "participantId": "op_1776502634083_uniyq4",
+          "linkedPlayerId": "pl_1776501858626",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502639377_36bfwm",
+          "participantId": "op_1776502639376_7ret2b",
+          "linkedPlayerId": "pl_1776501964185",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502648748_xegkgg",
+          "participantId": "op_1776502648748_ettesu",
+          "linkedPlayerId": "pl_1776502233824",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502688615_4uawnd",
+          "participantId": "op_1776502688614_4oqtqg",
+          "linkedPlayerId": "pl_1776502375881",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502693644_71k658",
+          "participantId": "op_1776502693644_nckuqc",
+          "linkedPlayerId": "pl_1776502040682",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502707184_89dfut",
+          "participantId": "op_1776502707184_adgyob",
+          "linkedPlayerId": "pl_1776501893145",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502712954_0bpzbz",
+          "participantId": "op_1776502712954_glaw93",
+          "linkedPlayerId": "pl_1776502057089",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502722058_hs20qj",
+          "participantId": "op_1776502722058_2ouebe",
+          "linkedPlayerId": "pl_1776502398346",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502727971_j3g814",
+          "participantId": "op_1776502727971_bsi0cb",
+          "linkedPlayerId": "pl_1776502473265",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502741241_qybige",
+          "participantId": "op_1776502741241_okavh4",
+          "linkedPlayerId": "pl_1776502508425",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502761891_buwnir",
+          "participantId": "op_1776502761891_c2kujl",
+          "linkedPlayerId": "pl_1776502316922",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502781570_tm14v9",
+          "participantId": "op_1776502781570_kqkud8",
+          "linkedPlayerId": "pl_1776501827938",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502792969_866zrw",
+          "participantId": "op_1776502792969_krbx2r",
+          "linkedPlayerId": "pl_1776502415152",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776502811496_xjlubz",
+          "participantId": "op_1776502811496_u8ujqr",
+          "linkedPlayerId": "pl_1776502083105",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776503028300_df8hja",
+          "participantId": "op_1776503028300_jgx1ci",
+          "linkedPlayerId": "pl_1776501691905",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776503052981_5cs0qr",
+          "participantId": "op_1776503052981_p7cxau",
+          "linkedPlayerId": "pl_1776501704946",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776503257940_y0szx6",
+          "participantId": "op_1776503257940_4xqhzn",
+          "linkedPlayerId": "pl_1776502956344",
+          "values": {}
+        },
+        {
+          "id": "bassign_1776503746369_z8ov2i",
+          "participantId": "op_1776503746368_2zibw7",
+          "linkedPlayerId": "pl_patrick_schirrholz",
+          "values": {}
+        }
+      ]
+    },
+    "rules": [
+      {
+        "id": "rule_1776501346398_bajf8q",
+        "title": "Gebot 01",
+        "text": "FairPlay – respektiere deinen Gegenüber",
+        "detail": ""
+      },
+      {
+        "id": "rule_1776501346398_qn5r2k",
+        "title": "Gebot 02",
+        "text": "Jede Rennstrecke und jeder Wettkampf wird ausgelost",
+        "detail": "Losboxen bei den Konsolen oder Random-Funktion im Spiel."
+      },
+      {
+        "id": "rule_1776501346398_qvduhq",
+        "title": "Gebot 03",
+        "text": "Bei der Gesamt-, Team- & Solowertung sind Platz 1, 2 & 3 Wanderpokale",
+        "detail": "Auch bei Nichtteilnahme werden diese wieder eingesammelt."
+      },
+      {
+        "id": "rule_1776501346398_q40a3b",
+        "title": "Gebot 04",
+        "text": "Wertmarken dürfen nur unmittelbar nach dem Rennen eingelöst werden!",
+        "detail": "Nur 1x gültig. Bei Switch 1 & 2 müssen mindestens 3 Personen eine Wertmarke einlösen, um das Spiel zu wiederholen."
+      },
+      {
+        "id": "rule_1776501346398_x4l2f1",
+        "title": "Gebot 05",
+        "text": "Es gibt keine Proberunden oder Neustarts",
+        "detail": "Üben kann man zuhause oder an freien Konsolen."
+      },
+      {
+        "id": "rule_1776501346398_c6udar",
+        "title": "Gebot 06",
+        "text": "Es gilt die gesetzliche „StVO“",
+        "detail": ""
+      },
+      {
+        "id": "rule_1776501346398_bnckcu",
+        "title": "Gebot 07",
+        "text": "Ausreden bzgl. Controller haben keine Gewichtung",
+        "detail": ""
+      },
+      {
+        "id": "rule_1776501346398_ph7o28",
+        "title": "Gebot 08",
+        "text": "Don’t drink and drive!",
+        "detail": ""
+      },
+      {
+        "id": "rule_1776501346398_97jxrk",
+        "title": "Gebot 09",
+        "text": "Bei Punktegleichstand finden Stechen statt",
+        "detail": "Jede Person hat einen Versuch. Solo: Zeitrennen 1 vs 1 mit geloster Konsole. Team: Zeitrennen 2 vs 2 auf der GameCube."
+      },
+      {
+        "id": "rule_1776501346398_geegiw",
+        "title": "Gebot 10",
+        "text": "Regel 1 gilt immer zuerst",
+        "detail": "Regelverstöße klärt die Turnierleitung direkt vor Ort."
+      }
+    ],
+    "setup": {
+      "room": {
+        "width": "",
+        "length": "",
+        "unit": "m",
+        "notes": ""
+      },
+      "inventory": [
+        {
+          "id": "asset_1776501346398_f9jrxd",
+          "type": "Tisch",
+          "name": "Biertisch / Turniertisch",
+          "qty": 4,
+          "width": "220",
+          "depth": "50",
+          "location": "Turnierfläche",
+          "notes": ""
+        },
+        {
+          "id": "asset_1776501346398_vszkf7",
+          "type": "Stuhl",
+          "name": "Stühle",
+          "qty": 24,
+          "width": "",
+          "depth": "",
+          "location": "Turnierfläche",
+          "notes": ""
+        },
+        {
+          "id": "asset_1776501346398_vb3ol2",
+          "type": "TV",
+          "name": "Final-TV",
+          "qty": 1,
+          "width": "",
+          "depth": "",
+          "location": "Zentral / Bühne",
+          "notes": ""
+        },
+        {
+          "id": "asset_1776501346398_9bafjm",
+          "type": "Konsole",
+          "name": "Switch 1",
+          "qty": 1,
+          "width": "",
+          "depth": "",
+          "location": "Station A",
+          "notes": ""
+        },
+        {
+          "id": "asset_1776501346398_52erzg",
+          "type": "Konsole",
+          "name": "Switch 2",
+          "qty": 1,
+          "width": "",
+          "depth": "",
+          "location": "Station B",
+          "notes": ""
+        }
+      ],
+      "stations": [
+        {
+          "id": "station_1776501346398_euqn5f",
+          "name": "Station A",
+          "area": "Links vorne",
+          "players": 4,
+          "tables": 1,
+          "chairs": 4,
+          "tv": "TV 1",
+          "console": "Switch 1",
+          "notes": ""
+        },
+        {
+          "id": "station_1776501346398_rml9bl",
+          "name": "Station B",
+          "area": "Rechts vorne",
+          "players": 4,
+          "tables": 1,
+          "chairs": 4,
+          "tv": "TV 2",
+          "console": "Switch 2",
+          "notes": ""
+        },
+        {
+          "id": "station_1776501346398_juffyq",
+          "name": "Finale",
+          "area": "Mitte / Bühne",
+          "players": 4,
+          "tables": 1,
+          "chairs": 6,
+          "tv": "Final-TV",
+          "console": "frei",
+          "notes": ""
+        }
+      ],
+      "checklist": [
+        {
+          "id": "check_1776501346398_uerpo3",
+          "task": "Eingangs- / Orga-Tisch direkt am Eingang aufbauen",
+          "status": "idee",
+          "notes": ""
+        },
+        {
+          "id": "check_1776501346398_9p8foe",
+          "task": "Laufwege zwischen Stationen freihalten",
+          "status": "idee",
+          "notes": ""
+        },
+        {
+          "id": "check_1776501346398_umumcl",
+          "task": "Freie Trainingskonsole separat stellen",
+          "status": "idee",
+          "notes": ""
+        },
+        {
+          "id": "check_1776501346398_m8b1m0",
+          "task": "Sichtbare Beschilderung für Gruppen und Stationen",
+          "status": "offen",
+          "notes": ""
+        }
+      ]
+    },
+    "tickerSpeed": 80
+  },
+  "_v": 4,
+  "_saved": "2026-04-18T09:22:41.203Z",
+  "_storage": {
+    "datasetName": "Mario Kart World Cup Save",
+    "reason": "folder-connected"
+  }
+}

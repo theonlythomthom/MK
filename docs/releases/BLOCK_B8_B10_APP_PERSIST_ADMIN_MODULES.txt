@@ -1,0 +1,17 @@
+Block B.8 bis B.10
+====================
+
+Umgesetzt:
+- Persistenz-Hook (`js/state/persist.js`) nach `src/state/persistHook.js` als ES-Modul verschoben
+- Player-Admin-Komponenten (`js/admin/player-admin.js`) nach `src/admin/playerAdmin.js` als ES-Modul verschoben
+- App-Entry (`js/app-main.js`) nach `src/app/appMain.js` als ES-Modul verschoben
+
+Bridge:
+- `src/legacy/bootstrap.js` importiert diese Module direkt
+- die Exporte werden an `window` gehängt, damit die verbleibenden Legacy-Dateien weiterlaufen
+- die alten Dateien im `js/`-Ordner sind nur noch dünne Kompatibilitäts-Shims
+
+Ziel:
+- weniger klassischer Script-Loader
+- mehr echte Modulgrenzen
+- bessere Basis für die spätere UI-Zerlegung

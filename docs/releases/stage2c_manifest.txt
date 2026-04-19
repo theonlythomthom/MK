@@ -1,0 +1,15 @@
+README.txt
+index.html
+js/admin/player-admin.js
+js/app-main.js
+js/boot.js
+js/core.js
+js/domain/ranking-domain.js
+js/domain/schedule-domain.js
+js/logic/print-export.js
+js/logic/ranking-popup.js
+js/orga/orga-tabs.js
+js/state/persist.js
+js/ui/tournament-tabs.js
+legacy/app.full.js
+styles/main.css

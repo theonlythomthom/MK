@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏆 Mario Kart World Cup</title>
+  <meta name="color-scheme" content="light">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+  <div id="root"></div>
+  <script>
+    (function(){
+      function esc(v){
+        return String(v == null ? '' : v).replace(/[&<>"']/g, function(ch){
+          return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'})[ch];
+        });
+      }
+      function showBootError(message){
+        var root = document.getElementById('root');
+        if (!root) return;
+        root.innerHTML = '<div style="min-height:100vh;background:#0c0c14;color:#fff;display:flex;align-items:flex-start;justify-content:center;padding:32px;font-family:Arial,sans-serif;">'
+          + '<div style="max-width:1000px;width:100%;background:#161625;border:1px solid #3a3a52;border-radius:14px;padding:24px;box-shadow:0 10px 30px rgba(0,0,0,.35)">'
+          + '<h1 style="margin:0 0 12px 0;font-size:24px;line-height:1.2">Datei konnte nicht korrekt geladen werden</h1>'
+          + '<p style="margin:0 0 14px 0;color:#d7d7e8;line-height:1.5">Beim Start ist ein Fehler aufgetreten. Der genaue Hinweis steht unten.</p>'
+          + '<pre style="white-space:pre-wrap;word-break:break-word;background:#0f0f18;border:1px solid #31314a;border-radius:10px;padding:14px;color:#ffb4b4;overflow:auto">' + esc(message) + '</pre>'
+          + '</div></div>';
+      }
+      window.__showBootError = showBootError;
+
+      var appScripts = [
+        './js/boot.js',
+        './js/core.js',
+        './js/logic/print-export.js',
+        './js/domain/schedule-domain.js',
+        './js/domain/ranking-domain.js',
+        './js/logic/ranking-popup.js',
+        './js/ui/tournament-tabs.js',
+        './js/admin/player-admin.js',
+        './js/orga/orga-tabs.js',
+        './js/state/file-storage.js',
+        './js/state/persist.js',
+        './js/app-main.js'
+      ];
+      var localReactScripts = [
+        './js/vendor/react.production.min.js',
+        './js/vendor/react-dom.production.min.js'
+      ];
+      var cdnReactScripts = [
+        'https://cdn.jsdelivr.net/npm/react@18.2.0/umd/react.production.min.js',
+        'https://cdn.jsdelivr.net/npm/react-dom@18.2.0/umd/react-dom.production.min.js'
+      ];
+
+      function loadScript(src){
+        return new Promise(function(resolve, reject){
+          var script = document.createElement('script');
+          script.src = src;
+          script.async = false;
+          script.onload = function(){ resolve(src); };
+          script.onerror = function(){ reject(new Error('Script konnte nicht geladen werden: ' + src)); };
+          document.body.appendChild(script);
+        });
+      }
+
+      function hasCompatibleReact(){
+        return !!(
+          window.React &&
+          typeof window.React.useState === 'function' &&
+          window.ReactDOM &&
+          (typeof window.ReactDOM.createRoot === 'function' || typeof window.ReactDOM.render === 'function')
+        );
+      }
+
+      function loadScriptsSequentially(scripts){
+        return scripts.reduce(function(chain, src){
+          return chain.then(function(){ return loadScript(src); });
+        }, Promise.resolve());
+      }
+
+      function ensureCompatibleReact(){
+        return loadScriptsSequentially(localReactScripts).then(function(){
+          if (hasCompatibleReact()) return 'local';
+          window.React = undefined;
+          window.ReactDOM = undefined;
+          return loadScriptsSequentially(cdnReactScripts).then(function(){
+            if (hasCompatibleReact()) return 'cdn';
+            throw new Error('Es konnte keine kompatible React-Version geladen werden.');
+          });
+        }).catch(function(localErr){
+          window.React = undefined;
+          window.ReactDOM = undefined;
+          return loadScriptsSequentially(cdnReactScripts).then(function(){
+            if (hasCompatibleReact()) return 'cdn';
+            throw localErr;
+          });
+        });
+      }
+
+      ensureCompatibleReact()
+        .then(function(){
+          return loadScriptsSequentially(appScripts);
+        })
+        .catch(function(err){
+          showBootError((err && (err.stack || err.message)) || String(err || 'Unbekannter Fehler'));
+        });
+    })();
+  </script>
+</body>
+</html>

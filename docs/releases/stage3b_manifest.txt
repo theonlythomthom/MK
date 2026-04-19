@@ -1,0 +1,4 @@
+Stage 3b
+- Quick-Load-Button in Hauptnavigation nach rechts verschoben
+- Position: direkt vor dem Zahnrad-Tab
+- Standardordner ./Speicher bleibt vorbereitet

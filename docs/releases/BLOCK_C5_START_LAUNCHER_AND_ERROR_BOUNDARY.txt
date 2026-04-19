@@ -1,0 +1,5 @@
+Block C.5
+- Root-index.html ist jetzt ein Launcher:
+  - file:// oder normale ZIP-Nutzung -> dist/index.html
+  - Vite-Dev-Server auf Port 5173 -> src/main.jsx
+- React-Error-Boundary ergänzt, damit Renderfehler nicht mehr als leeres weißes Bild enden.
