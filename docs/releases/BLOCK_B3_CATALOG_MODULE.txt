@@ -1,5 +1,0 @@
-Block B.3
-- GAME_CATALOG, DEFAULT_MODE_DESCRIPTORS, Unlock-Hints und Resolver-Grundlagen aus js/core.js nach src/catalog/gameCatalog.js verschoben.
-- Bootstrap exponiert diese Werte/Funktionen kontrolliert an window.
-- js/core.js behält nur noch die davon abhängige Default-/Normalisierungslogik.
-- Ziel: core.js weiter verkleinern und globale Rohdefinitionen reduzieren, ohne die Legacy-App zu brechen.

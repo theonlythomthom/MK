@@ -1,5 +1,0 @@
-Block B.13-B.15
-- Restlichen Legacy-core als ES-Modul nach src/core/coreRuntime.js verlagert.
-- src/legacy/bootstrap.js lädt den Core jetzt per dynamic import statt als klassisches Roh-Skript.
-- js/core.js ist nur noch ein Legacy-Shim.
-- Damit gibt es im Bootstrap keinen klassischen Raw-Script-Loader mehr.

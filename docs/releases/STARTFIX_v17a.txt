@@ -1,8 +1,0 @@
-Startfix v17a
-
-Historischer Hinweis:
-- Frühere Zwischenstände hatten einen Versionsbruch zwischen lokaler ReactDOM-Datei und dem Mount-Pfad.
-- Im aktuellen Stand bleibt die App bei lokalen Vendor-Dateien und mountet kompatibel:
-  - moderner Root-Pfad, wenn vorhanden
-  - sonst Legacy-Renderpfad
-- Ziel: stabiler lokaler Start ohne erzwungene CDN-Abhängigkeit.

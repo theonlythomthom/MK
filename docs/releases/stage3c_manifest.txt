@@ -1,4 +1,0 @@
-mkwc stage3c
-- header storage badges
-- latest backup quick load
-- improved storage tab summary
